@@ -61,6 +61,19 @@ Ao abrir o aplicativo, uma splashscreen com a logo do jogo carregará, após iss
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
+Tarefa 1:
+![image](https://github.com/Aleexmarcelo/ColorVillage/assets/83593099/0d5daa7c-50e8-4f6f-a408-ce44d66fa5fe)
+
+Tarefa 2:
+![image](https://github.com/Aleexmarcelo/ColorVillage/assets/83593099/7849271c-268e-4abd-9097-93c934eea7eb)
+
+Tarefa 3:
+![image](https://github.com/Aleexmarcelo/ColorVillage/assets/83593099/fd919028-183d-48b9-921d-a58e0555f1b1)
+
+Tarefa 4:
+![image](https://github.com/Aleexmarcelo/ColorVillage/assets/83593099/fa8d094a-bc83-48b0-8060-c52cc8adca9e)
+
+
 
 ## Desenvolvedores/Contribuintes:
 Alex Marcelo
