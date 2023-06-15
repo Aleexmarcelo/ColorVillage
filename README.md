@@ -45,7 +45,8 @@ Após finalizado, a arte é levada para uma cena utilizando as cores.
 ✔️ Funcionalidade 4
 
 ## Distribuição
-APKPURE
+APKPURE:
+https://apkpure.com/p/com.AlexMarcelo.ColorVille
 
 ## Pré-requisitos ⚠️    
 Android 6.0+
